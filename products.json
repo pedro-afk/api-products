@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Macarrão dona benta",
+    "descricao: "Macarrão espaguete parafuso, penne",
+    "preco": 3.50
+    "imagem": "https://static.clubeextra.com.br/img/uploads/1/216/13127216.jpg"
+  },
+  {
+    "nome": "Fanta Uva",
+    "descricao: "Refrigerante de gás kk sabor uva",
+    "preco": 3.50
+    "imagem": "https://riomarrecife.com.br/recife/2019/05/refrigerante_fanta_uva_lata_350_ml.jpg"
+  },
+  {
+    "nome": "Farinha de trigo",
+    "descricao: "Farinha de trigo da boa",
+    "preco": 3.50
+    "imagem": "https://www.bistek.com.br/media/catalog/product/cache/15b2f1f06e1cd470c80b1f3fd7ec8301/1/0/1008277_2.jpg"
+  },
+  {
+    "nome": "Fuck Maycon",
+    "descricao: "Fuck Maycon Forever",
+    "preco": "infinite"
+    "imagem": "https://media-exp1.licdn.com/dms/image/D4D35AQE8PFg_Dgg9WQ/profile-framedphoto-shrink_800_800/0/1640123678818?e=1659650400&v=beta&t=Z-q2JdpzfUgS6rzBFr55yx2qGY_yJ9i-YS0lXLAMZ8Y"
+  }
+]
